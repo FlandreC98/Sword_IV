@@ -1,0 +1,3 @@
+displayName = Sword
+author = IX
+version = 0.1
